@@ -6,8 +6,8 @@ public class Demo {
         Calculator c =new Calculator();
         c.A = 12;
         c.B = 5;
-        
 
+        //this is a test comment
         System.out.println("addition of the numbers is : "+ c.add(c.A,c.B) );
         System.out.println("subtraction of the numbers is : "+ c.sub() );
         System.out.println("Product of the numbers is : "+ c.multi(c.A,c.B) );
